@@ -72,7 +72,7 @@
     
         *{
             box-sizing: border-box;
-            font-family: "GoogleSans";
+             font-family: "Google Sans Flex", sans-serif;
             scrollbar-width: none;
             -webkit-touch-callout: none; /* iOS Safari */
             -webkit-user-select: none; /* Safari */
